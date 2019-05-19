@@ -55,6 +55,10 @@ a:hover {
   background-color: rgb(255,255,240);
 }
 
+label {
+  font-size: 25px;
+}
+
 ul {
   list-style: none;
 }
