@@ -63,6 +63,11 @@ ul {
   list-style: none;
 }
 
+ol {
+  list-style: none;
+  font-size: 25px;
+}
+
 p {
   font-size: 25px;
 }
@@ -78,6 +83,10 @@ footer {
   height: 120px;
   border-top: #008000 5px solid;
   font-size: 25px;
+}
+
+button {
+  margin-bottom: 15px;
 }
 
 footer li {
